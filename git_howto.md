@@ -1,4 +1,5 @@
 # Подсказка по GIT
+![Logotip git](https://i.pinimg.com/originals/a0/c0/bc/a0c0bcdfeedf076ee4d6d4ccc437d169.png)
 
 ## Создание репозитория:
 ```sh
