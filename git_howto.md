@@ -35,7 +35,7 @@ git log --oneline
 Вывод коммитов в одну строку. Показывает только хэш коммита и commit message
 ```
 ```sh
-git checkout
+git checkout <branch_name>
 
 Отвечает за переключение между отдельными ветками репозитория.
 ```
